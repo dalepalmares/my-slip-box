@@ -1,0 +1,20 @@
+{
+  "promptDelete": false,
+  "vimMode": false,
+  "fileSortOrder": "byCreatedTime",
+  "legacyEditor": false,
+  "livePreview": true,
+  "spellcheck": true,
+  "communityThemeSortOrder": "download",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Zettelkasten",
+  "attachmentFolderPath": "Files",
+  "spellcheckDictionary": [
+    "acclamations",
+    "tranquility.",
+    "Uncomplicate",
+    "Joi",
+    "Tappan",
+    "Zee"
+  ]
+}
