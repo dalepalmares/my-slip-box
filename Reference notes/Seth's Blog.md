@@ -107,5 +107,3 @@ Hence this short list:
 
 15. If you want to reach people who don't normally buy books, show up in places where people who don't usually buy books are. Media places, virtual places and real places too.
 
-
-wut
